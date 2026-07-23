@@ -8,6 +8,9 @@ print("Today is a beautiful day")
 
 
 
+''' this is the first program of python
+any i am happy to satrt this new journey and 
+i promise my self to be consistenat thorugh out this journey'''
 
 
 
