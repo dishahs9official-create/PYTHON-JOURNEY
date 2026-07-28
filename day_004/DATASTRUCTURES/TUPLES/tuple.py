@@ -1,0 +1,5 @@
+tup=()
+tup1=(1,)
+tp=('hello',67.92,37,)
+print(tup)
+print(tup1)
