@@ -9,7 +9,6 @@
 # else:
 #     print("PRIME NUMBER")
 
-
 '''Check if 7 a prime number aur not'''
 n=7
 if(n%2==0):
@@ -24,3 +23,4 @@ elif(n%6==0):
     print("not prime")
 else:
     print("PRIME NUMBER")
+
